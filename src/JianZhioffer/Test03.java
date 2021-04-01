@@ -31,6 +31,7 @@ class Solution {
     2. [leetcode官方] 遍历数组
     使用集合Set
     运行结果：时间更长，内存消耗更大
+
  */
 class Solution2{
     public int findRepeatNumber(int[] nums){
